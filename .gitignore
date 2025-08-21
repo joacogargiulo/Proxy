@@ -1,0 +1,15 @@
+# Ejecutables
+*.exe
+
+# Objetos y compilados
+*.o
+*.obj
+*.dll
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Carpeta de distribución local
+dist/
+build/
