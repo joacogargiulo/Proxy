@@ -13,7 +13,7 @@ Esto suele arreglar casos en los que algunas páginas no cargan o cargan de form
 ## 🚀 Descarga rápida (EXE listo)
 
 ➡️ **Descargar la última versión (.exe):**  
-https://github.com/**joacogargiulo**/fixProxy/releases/latest/download/**fixProxy.exe**
+https://github.com/joacogargiulo/fixProxy/releases/latest/download/fixProxy.exe
 
 
 ---
